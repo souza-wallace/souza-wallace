@@ -1,6 +1,6 @@
 
 ## Hi, I'm Wallace
-<p align="center">Sou um desenvolvedor apaixonado com 2.5 anos de experiência na área de desenvolvimento web Tenho formação em Análise e Desenvolvimento de Sistemas e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias. Meu objetivo é criar soluções de software eficientes e elegantes que resolvam problemas do mundo real..</p>&nbsp;
+<p align="center">Sou um desenvolvedor apaixonado com 3 anos de experiência na área de desenvolvimento web Tenho formação em Análise e Desenvolvimento de Sistemas e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias. Meu objetivo é criar soluções de software eficientes e elegantes que resolvam problemas do mundo real..</p>&nbsp;
 
 ## My Skills
 
